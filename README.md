@@ -1,20 +1,20 @@
-[<img src="https://komarev.com/ghpvc/?username=triandi-ntx" alt="triandi-ntx's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=triandi-ntx">
+</a>
+<a href="https://github.com/triandi-ntx?tab=followers"><img src="https://img.shields.io/github/followers/triandi-ntx?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br />
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+triandi;Welcome+to+My+Profile&center=true&size=28" alt="triandi-ntx's running text"/>
-  </a>
-</h1>
+<<a href="#"><img width="100%" height="auto" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png" height="175px"/></a>
 
-
-![Triandi's card name](https://cardivo.vercel.app/api?name=triandi-ntx&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=triandi.ntx)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Triandi</h1>
+<h3 align="center">I'm a Front End.</h3>
 
 
 
-## 	 About me
+
+##   About me
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills and some backend like NodeJS.
 
@@ -38,3 +38,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triandi-ntx&layout=compact)](https://github.com/triandi/github-readme-stats)
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/triandi-andi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/triandi.ntx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
