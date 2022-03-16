@@ -1,3 +1,7 @@
+[<img src="https://komarev.com/ghpvc/?username=triandi-ntx" alt="triandi-ntx's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+
+<br />
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+triandi;Welcome+to+My+Profile&center=true&size=28" alt="triandi-ntx's running text"/>
