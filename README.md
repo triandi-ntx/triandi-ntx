@@ -1,5 +1,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=triandi-ntx">
+    <img src="https://komarev.com/ghpvc/?username=triandi-ntx" alt="triandi-ntx's profile views" align="right">
 </a>
 <a href="https://github.com/triandi-ntx?tab=followers"><img src="https://img.shields.io/github/followers/triandi-ntx?label=Followers&style=social" alt="GitHub Badge"></a>
 
