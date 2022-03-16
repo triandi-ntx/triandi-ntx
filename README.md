@@ -20,8 +20,8 @@
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=triandi-ntx&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=triandi-ntx&theme=dark" width="50%" align="left">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triandi-ntx&layout=compact)](https://github.com/triandi/github-readme-stats)
 
