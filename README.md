@@ -2,6 +2,7 @@
 
 <br />
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+triandi;Welcome+to+My+Profile&center=true&size=28" alt="triandi-ntx's running text"/>
@@ -9,7 +10,7 @@
 </h1>
 
 
-![Triandi's card name](https://cardivo.vercel.app/api?name=triandi-ntx&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=https://www.instagram.com/triandi.ntx)
+![Triandi's card name](https://cardivo.vercel.app/api?name=triandi-ntx&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=triandi.ntx)
 
 
 
