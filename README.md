@@ -6,7 +6,7 @@
 <br />
 
 
-![Triandi's card name](https://cardivo.vercel.app/api?name=Triandi&description=&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
+![Triandi's card name](https://cardivo.vercel.app/api?name=Triandi&description=&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=triandi.ntx&pattern=iLikeFood&colorPattern=%23000)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Triandi</h1>
 
