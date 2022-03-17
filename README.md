@@ -6,23 +6,20 @@
 <br />
 
 
-<a href="#"><img width="75%" height="75%" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png" height="175px"/></a>
+<a href="#"><img width="75%" height="auto" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:e2f1bbd647ebe630330a22d4ee95392220220312223313.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Triandi</h1>
-<h3 align="center">I'm a Front End.</h3>
-
-
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Triandi</h1>
 
 ##   About me
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills and some backend like NodeJS.
 
 
-## Keep Connected
-- [Personal webpage](https://triandi.github.io) 
-- [Instagram](https://www.instagram.com/triandi.ntx/)
-- [LinkedIn](https://www.linkedin.com/in/triandi-andi/)
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/triandi-andi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/triandi.ntx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 ## Languages I used
 
@@ -38,8 +35,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triandi-ntx&layout=compact)](https://github.com/triandi/github-readme-stats)
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/triandi-andi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/triandi.ntx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
