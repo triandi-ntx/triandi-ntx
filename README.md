@@ -16,11 +16,10 @@
 
 
 ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/triandi-andi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/triandi.ntx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/triandi-andi/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/triandi.andi.31/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/triandi.ntx/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:triandi.ntx@gmail.com)
 ## Languages I used
 
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black&style=for-the-badge"> <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=black&style=for-the-badge"> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
